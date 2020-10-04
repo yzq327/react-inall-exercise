@@ -14,7 +14,7 @@ export default class Timer extends Component{
                       <div className="setTime">设置时间</div>
                       <input className="inputNumbers"></input> 
                     </div>                      
-                    <button className="symbol">start</button>
+                    <button className="start">start</button>
                   </div>                            
                   <div className="timerRight">
                     <div className="startTimer">Start</div>                   
